@@ -1,7 +1,7 @@
 
 # ポートフォリオサイト
 
-このサイトはGitHubアカウント「makotokuramochi」の主要な成果をまとめて表示します。
+このサイトはGitHubアカウント「Krminfinity」の主要な成果をまとめて表示します。
 
 ## 機能
 - GitHub APIからリポジトリ情報を取得
